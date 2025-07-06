@@ -12,12 +12,12 @@
 ;; withdrawal mechanisms ensures capital protection during market volatility.
 ;; 
 ;; Core Features:
-;; • Progressive tier system with exponential reward scaling
-;; • Time-weighted staking for enhanced yield generation
-;; • Governance-driven protocol evolution with weighted voting
-;; • Institutional-grade security with multi-sig safeguards
-;; • Liquidity mining with automated compounding mechanisms
-;; • Emergency pause system for protocol protection
+;; - Progressive tier system with exponential reward scaling
+;; - Time-weighted staking for enhanced yield generation
+;; - Governance-driven protocol evolution with weighted voting
+;; - Institutional-grade security with multi-sig safeguards
+;; - Liquidity mining with automated compounding mechanisms
+;; - Emergency pause system for protocol protection
 ;; 
 ;; Built on Stacks for Bitcoin-level security with Layer 2 efficiency,
 ;; VelocityVault delivers enterprise-grade DeFi infrastructure for the
